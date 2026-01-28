@@ -1,5 +1,5 @@
 # Please modify the instance_count, but PLEASE don't go higher than 2 VMs in this lab.
-instance_count = 0
+instance_count = 2
 #
 #
 aap_workflow_job_template = {
